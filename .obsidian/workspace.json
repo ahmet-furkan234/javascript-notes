@@ -156,11 +156,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 319.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +177,7 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "26164c13a61d0b70",
+  "active": "3f075a7fd9236319",
   "lastOpenFiles": [
     "Pasted image 20250625104852.png.md",
     "NaN.md",
