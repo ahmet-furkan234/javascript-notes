@@ -94,7 +94,7 @@ function selam(isim = "Ziyaretçi") {
 }
 
 selam();         // Merhaba, Ziyaretçi
-selam("Ayşe");   // Merhaba, Ayşe
+selam("Ahmet");   // Merhaba, Ahmet
 ```
 
 ---
