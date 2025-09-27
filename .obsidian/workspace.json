@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loops/Do...While.md",
+                "file": "Conditional Statements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Do...While"
+              "title": "Conditional Statements"
             }
           }
         ]
@@ -183,15 +183,18 @@
   },
   "active": "3f075a7fd9236319",
   "lastOpenFiles": [
+    "JavaScript.md",
+    "Conditional Statements.md",
+    "Control Flow.md",
+    "Loops/For...Of.md",
+    "Loops/For...In.md",
     "Loops/For.md",
     "Loops/Do...While.md",
     "Data Types.md",
     "Basic Commands.md",
-    "JavaScript.md",
     "AJAX.md",
     "Object.is.md",
     "OOP/1.JavaScript Nesneler (Objects) ve Object Literals.md",
-    "Loops/For...Of.md",
     "Loops/Foreach.md",
     "Pasted image 20250625104852.png.md",
     "NaN.md",
@@ -206,9 +209,6 @@
     "This Keyword/this in a method.md",
     "Data Structure/Map.md",
     "This Keyword/this in a function.md",
-    "use strict.md",
-    "This Keyword/Başlıksız 7.md",
-    "This Keyword/Başlıksız 6.md",
     "This Keyword",
     "Pasted image 20250625104852.png",
     "DOM",
