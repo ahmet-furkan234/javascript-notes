@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript.md",
+                "file": "Loops/Do...While.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript"
+              "title": "Do...While"
             }
           }
         ]
@@ -183,6 +183,11 @@
   },
   "active": "3f075a7fd9236319",
   "lastOpenFiles": [
+    "Loops/For.md",
+    "Loops/Do...While.md",
+    "Data Types.md",
+    "Basic Commands.md",
+    "JavaScript.md",
     "AJAX.md",
     "Object.is.md",
     "OOP/1.JavaScript Nesneler (Objects) ve Object Literals.md",
@@ -200,15 +205,10 @@
     "Data Structure/Array.md",
     "This Keyword/this in a method.md",
     "Data Structure/Map.md",
-    "Loops/Do...While.md",
     "This Keyword/this in a function.md",
     "use strict.md",
     "This Keyword/Başlıksız 7.md",
     "This Keyword/Başlıksız 6.md",
-    "This Keyword/Başlıksız 5.md",
-    "This Keyword/Başlıksız 4.md",
-    "This Keyword/Başlıksız 3.md",
-    "This Keyword/Başlıksız 2.md",
     "This Keyword",
     "Pasted image 20250625104852.png",
     "DOM",
