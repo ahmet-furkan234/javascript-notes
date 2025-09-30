@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fbaf9781d306062c",
+        "id": "c3f1a7a24e3a5026",
         "type": "tabs",
         "children": [
           {
-            "id": "3f075a7fd9236319",
+            "id": "a37a0ddc885a33b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Form Validation.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Form Validation"
+              "title": "New tab"
             }
           }
         ]
@@ -181,21 +177,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f075a7fd9236319",
+  "active": "a37a0ddc885a33b6",
   "lastOpenFiles": [
-    "Functions.md",
+    "Destructuring.md",
+    "OOP/10. Interface (Arayüz) Benzeri Yapılar JavaScript'te.md",
     "Form Validation.md",
+    "Functions.md",
     "Fetch.md",
     "Exception Handling.md",
     "Event Bubbling & Event Delegation.md",
     "Error Object.md",
-    "Destructuring.md",
     "Date Methods.md",
     "Data Types.md",
     "Custom Validation.md",
     "Control Flow.md",
     "AJAX.md",
-    "OOP/10. Interface (Arayüz) Benzeri Yapılar JavaScript'te.md",
     "Untitled.md",
     "OOP/9. Abstract Sınıflar ve Metodlar (Soyutlama).md",
     "OOP/8. Polymorphism (Çok Biçimlilik) ve Override (Ezme).md",
