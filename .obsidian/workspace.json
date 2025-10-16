@@ -11,10 +11,14 @@
             "id": "a37a0ddc885a33b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Array Methods 2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Array Methods 2"
             }
           }
         ]
@@ -179,6 +183,8 @@
   },
   "active": "a37a0ddc885a33b6",
   "lastOpenFiles": [
+    "Array Methods.md",
+    "Array Methods 2.md",
     "Destructuring.md",
     "OOP/10. Interface (Arayüz) Benzeri Yapılar JavaScript'te.md",
     "Form Validation.md",
@@ -203,8 +209,6 @@
     "OOP/2.Constructor Functions (Yapıcı Fonksiyonlar).md",
     "OOP/1.JavaScript Nesneler (Objects) ve Object Literals.md",
     "Asenkron.md",
-    "Callback.md",
-    "Async & Await.md",
     "This Keyword",
     "Pasted image 20250625104852.png",
     "DOM",
