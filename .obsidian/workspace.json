@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Callback.md",
+                "file": "Control Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Callback"
+              "title": "Control Flow"
+            }
+          },
+          {
+            "id": "e86440dfdf63fec9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,8 +196,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a37a0ddc885a33b6",
+  "active": "e86440dfdf63fec9",
   "lastOpenFiles": [
+    "Control Flow.md",
+    "Untitled.md",
+    "Array.from().md",
+    "Callback.md",
     "Array Methods 2.md",
     "Array Methods.md",
     "Destructuring.md",
@@ -196,9 +215,7 @@
     "Date Methods.md",
     "Data Types.md",
     "Custom Validation.md",
-    "Control Flow.md",
     "AJAX.md",
-    "Untitled.md",
     "OOP/9. Abstract Sınıflar ve Metodlar (Soyutlama).md",
     "OOP/8. Polymorphism (Çok Biçimlilik) ve Override (Ezme).md",
     "OOP/7. Static Metotlar ve Özellikler.md",
@@ -207,8 +224,6 @@
     "OOP/4.Prototype ve Bellek Kullanımı.md",
     "OOP/3.ES6 `class` (Sınıf) Yapısı.md",
     "OOP/2.Constructor Functions (Yapıcı Fonksiyonlar).md",
-    "OOP/1.JavaScript Nesneler (Objects) ve Object Literals.md",
-    "Asenkron.md",
     "This Keyword",
     "Pasted image 20250625104852.png",
     "DOM",
