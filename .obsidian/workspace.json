@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spread.md",
+                "file": "Array Methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spread"
+              "title": "Array Methods"
             }
           }
         ],
@@ -198,6 +198,7 @@
   },
   "active": "e86440dfdf63fec9",
   "lastOpenFiles": [
+    "Spread.md",
     "Callback.md",
     "Closure.md",
     "Control Flow.md",
@@ -223,7 +224,6 @@
     "OOP/5. Kalıtım (Inheritance).md",
     "OOP/4.Prototype ve Bellek Kullanımı.md",
     "OOP/3.ES6 `class` (Sınıf) Yapısı.md",
-    "OOP/2.Constructor Functions (Yapıcı Fonksiyonlar).md",
     "This Keyword",
     "Pasted image 20250625104852.png",
     "DOM",
