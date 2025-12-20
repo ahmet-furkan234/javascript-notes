@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Closure.md",
+                "file": "Spread.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Closure"
+              "title": "Spread"
             }
           }
         ],
@@ -198,10 +198,10 @@
   },
   "active": "e86440dfdf63fec9",
   "lastOpenFiles": [
-    "Control Flow.md",
-    "Closure.md",
-    "Array.from().md",
     "Callback.md",
+    "Closure.md",
+    "Control Flow.md",
+    "Array.from().md",
     "Array Methods 2.md",
     "Array Methods.md",
     "Destructuring.md",
